@@ -5,8 +5,6 @@
 console.log('Hola wey')
 // Objeto global- me devuelve un obj global c/ ciertos atributos
 //console.log(global);
-//modulos para explorar
-//commonJs modules en vez de ES6 modules
 
 const os = require('os');
 const path = require('path');
